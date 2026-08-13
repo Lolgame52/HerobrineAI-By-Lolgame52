@@ -8,7 +8,8 @@ Adaptive Horror Engine plugin for Minecraft Spigot/Paper 1.20.1+
 HerobrineAI is an advanced plugin for creating adaptive horror encounters with Herobrine. Unlike simple plugins that use signs and chat messages, this one uses artificial intelligence that learns from player behavior and adapts its tactics in real time.
 
 📦 Requirements:
-• Citizens (for NPC creation) – https://ci.citizensnpcs.co/job/citizens2/3208/artifact/dist/target/Citizens-2.0.32-b3208.jar
+• Citizens (for NPC creation) – 
+https://ci.citizensnpcs.co/job/citizens2/3208/artifact/dist/target/Citizens-2.0.32-b3208.jar
 • Spigot/Paper/Purpur 1.20.1+
 
 ═══════════════════════════════════════════════════════════════
